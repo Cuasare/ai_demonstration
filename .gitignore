@@ -1,3 +1,4 @@
 backend/dados.csv
 .venv
 .idea
+frontend/node_modules
